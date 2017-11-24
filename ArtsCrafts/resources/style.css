@@ -1,0 +1,36 @@
+html {
+  font-family: Helvetica;
+}
+
+.jumbotron {
+  background-image: url(../resources/images/pattern.jpeg);
+  /* --using web url vs local image--
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg)*/
+  font-size: 100px;
+  font-weight: bold;
+  color: Khaki;
+  text-align: center;
+}
+
+.item h2 {
+  font-weight: bold;
+  font-size: 32px;
+  color: white;
+}
+
+.prices {
+  font-weight: bold;
+  color: blue;
+}
+
+#brush {
+  background-color: mediumspringgreen;
+}
+
+#frame {
+  background-color: lightcoral;
+}
+
+#paint {
+  background-color: skyblue;
+}
